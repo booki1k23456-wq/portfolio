@@ -67,7 +67,7 @@ export function HeroSection() {
       >
         <Magnet padding={150} strength={3}>
           <img
-            src="/主视觉.png"
+            src="/portfolio/主视觉.png"
             alt="/主视觉.png"
             className="w-[280px] sm:w-[360px] md:w-[440px] lg:w-[520px] object-contain"
             loading="lazy"
